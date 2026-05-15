@@ -1,0 +1,274 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\altera\13.1
+vbitsum
+Z1 Iz=TJG0fFf]T@kGG_AHai<1
+Z2 Vi9NGmz9LhHK1Bn8hXVK7o2
+Z3 dD:\altera\13.1
+Z4 w1778843734
+Z5 8D:/altera/13.1/seven_bit_sum.v
+Z6 FD:/altera/13.1/seven_bit_sum.v
+L0 21
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s108 1778843804.583000
+Z9 !s107 D:/altera/13.1/seven_bit_sum.v|
+Z10 !s90 -reportprogress|300|-work|work|D:/altera/13.1/seven_bit_sum.v|
+Z11 o-work work -O0
+!i10b 1
+Z12 !s100 SNhVmhRJ5KI`ZGbcO?L5i1
+!s85 0
+!s101 -O0
+vDdnf
+Z13 IgI?jEno18UmlzK<e9KBib1
+Z14 VH:R:neV7@<j`jgYDob47Y2
+R3
+Z15 w1776967699
+Z16 8D:/altera/13.1/Ddnf.v
+Z17 FD:/altera/13.1/Ddnf.v
+L0 1
+R7
+r1
+31
+R11
+Z18 n@ddnf
+Z19 !s100 hFn_G;bV5zSfnZF7F^MKa1
+Z20 !s108 1776968146.486000
+Z21 !s107 D:/altera/13.1/Ddnf.v|
+Z22 !s90 -reportprogress|300|-work|work|D:/altera/13.1/Ddnf.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdemux_1_to_5
+Z23 I`Fi;L=gGb:WJ8MEcoCl`G3
+Z24 V3?P]H_Sg2K>gM<h]fTKi02
+R3
+Z25 w1777558381
+Z26 8D:/altera/13.1/Lab5_Chigarev.v
+Z27 FD:/altera/13.1/Lab5_Chigarev.v
+L0 1
+R7
+r1
+31
+R11
+Z28 !s100 JkQ;dnHJ@WZ[[9d5Jh:hM3
+Z29 !s108 1777558439.189000
+Z30 !s107 D:/altera/13.1/Lab5_Chigarev.v|
+Z31 !s90 -reportprogress|300|-work|work|D:/altera/13.1/Lab5_Chigarev.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdemux_1to5
+Z32 !s100 lNalN4RR@oPEmI0fDH:`<2
+Z33 INz^]oi2kC3BY751fBVonE0
+Z34 VXR43bWO2V1ilEcH=f4>nl2
+R3
+Z35 w1777559692
+R26
+R27
+L0 1
+R7
+r1
+31
+R31
+R11
+Z36 !s108 1777566169.751000
+R30
+!i10b 1
+!s85 0
+!s101 -O0
+vDknf
+Z37 I61;8Q4?obZ6BY9XO;BldW3
+Z38 V]4SH;jb2iRI4LdFn_hQ1n1
+R3
+Z39 w1776967617
+Z40 8D:/altera/13.1/Dknf.v
+Z41 FD:/altera/13.1/Dknf.v
+L0 1
+R7
+r1
+31
+R11
+Z42 n@dknf
+Z43 !s100 CQ`fzLb99A3[;_=BD;YQ61
+Z44 !s108 1776968146.544000
+Z45 !s107 D:/altera/13.1/Dknf.v|
+Z46 !s90 -reportprogress|300|-work|work|D:/altera/13.1/Dknf.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEx2_OR
+Z47 !s100 gV4I`E>fOoGLnlOeAQkmD3
+Z48 I8DGG_A`f?@?HARUK[K=GA0
+Z49 VYfliPh^TfB6O=FTZ0CUe30
+R3
+Z50 w1776966065
+Z51 8D:/altera/13.1/Ex2_name_OR.v
+Z52 FD:/altera/13.1/Ex2_name_OR.v
+L0 1
+R7
+r1
+31
+Z53 !s90 -reportprogress|300|-work|work|D:/altera/13.1/Ex2_name_OR.v|
+R11
+Z54 n@ex2_@o@r
+Z55 !s108 1776967685.590000
+Z56 !s107 D:/altera/13.1/Ex2_name_OR.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfivebitsum
+Z57 !s100 djRFWOSG8fj<N>dgWDY:b2
+Z58 I]8fLiI:X=g9enYO5H^?HD1
+Z59 Vc5bUJiOUNBfWEIH<EZOIe0
+R3
+Z60 w1778842847
+Z61 8D:/altera/13.1/5rozradsum.v
+Z62 FD:/altera/13.1/5rozradsum.v
+L0 2
+R7
+r1
+31
+Z63 !s108 1778842935.124000
+Z64 !s107 D:/altera/13.1/5rozradsum.v|
+Z65 !s90 -reportprogress|300|-work|work|D:/altera/13.1/5rozradsum.v|
+R11
+!i10b 1
+!s85 0
+!s101 -O0
+vhalf_add
+Z66 IIC1lJPW6;L1gm;LTdFL_c0
+Z67 VT3N=:RY>F4EPXIhhmNPK81
+R3
+Z68 w1774465611
+Z69 8C:/Users/Sasha/Downloads/half_add_lab1.v
+Z70 FC:/Users/Sasha/Downloads/half_add_lab1.v
+L0 6
+R7
+r1
+31
+R11
+Z71 !s100 3Oe3if]8d2;2`m]dIliF]1
+Z72 !s108 1774465960.075000
+Z73 !s107 C:/Users/Sasha/Downloads/half_add_lab1.v|
+Z74 !s90 -reportprogress|300|-work|work|C:/Users/Sasha/Downloads/half_add_lab1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vonebitsum
+Z75 !s100 D6f^9cBYb4Z3ohGdm9JAf0
+Z76 I?g`g[k<Bbjj;;f4WJ2YzX1
+Z77 V:OPgUXEe?7Vf@m[0g?[FG1
+R3
+R60
+R61
+R62
+L0 21
+R7
+r1
+31
+R63
+R64
+R65
+R11
+!i10b 1
+!s85 0
+!s101 -O0
+vref_sum
+!i10b 1
+!s100 4dz55JcfRm8^9dk>9f1LR2
+ITXbhfo3YeOZ]=MIlXYk:U0
+VL;9L7V7S95PDb3U;<E1Dj3
+R3
+w1778843791
+8D:/altera/13.1/ref_sum.v
+FD:/altera/13.1/ref_sum.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1778843804.649000
+!s107 D:/altera/13.1/ref_sum.v|
+!s90 -reportprogress|300|-work|work|D:/altera/13.1/ref_sum.v|
+!s101 -O0
+R11
+vseven_bit_sum
+Z78 I4oM]iY:??^FXNjfe<We2@2
+Z79 V;dREAmI>D7BWZ1Ym:_hz_3
+R3
+R4
+R5
+R6
+L0 1
+R7
+r1
+31
+R8
+R9
+R10
+R11
+!i10b 1
+Z80 !s100 0zZ^17F6aMPXY[QlSS>mb1
+!s85 0
+!s101 -O0
+vstandart_sum
+Z81 IGE[b2DH:O4?9P4UdcFIYP0
+Z82 VV>IVPlE=g6EfDj246UI`U0
+R3
+Z83 w1778842819
+Z84 8D:/altera/13.1/standart_sum.v
+Z85 FD:/altera/13.1/standart_sum.v
+L0 1
+R7
+r1
+31
+R11
+Z86 !s100 nzkRQh7o?B@RF2ZSn?3^R0
+Z87 !s108 1778842935.231000
+Z88 !s107 D:/altera/13.1/standart_sum.v|
+Z89 !s90 -reportprogress|300|-work|work|D:/altera/13.1/standart_sum.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+Z90 IBVL2T9EfjeSPQUg;N?2zX1
+Z91 VhGfW:390DM[oDMzegDH9`2
+R3
+Z92 w1778843736
+Z93 8D:/altera/13.1/testbench.v
+Z94 FD:/altera/13.1/testbench.v
+L0 1
+R7
+r1
+31
+Z95 !s90 -reportprogress|300|-work|work|D:/altera/13.1/testbench.v|
+R11
+Z96 !s100 DH`@]oJ60AG@N63XZf5zH2
+Z97 !s108 1778843804.526000
+Z98 !s107 D:/altera/13.1/testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestsummator
+Z99 IU6d>0G3zQb]2j4<<5z`o40
+Z100 V@HcFkhVaWZ9b5GIE5P6_=2
+R3
+Z101 w1778842845
+R93
+R94
+L0 1
+R7
+r1
+31
+R11
+Z102 !s100 MR2:l=DlRNdSadkOVCzKU3
+Z103 !s108 1778842935.289000
+R98
+R95
+!i10b 1
+!s85 0
+!s101 -O0
